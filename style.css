@@ -1,9 +1,12 @@
 body {
     font-weight: lighter;
     font-family: sans-serif;
+    background-image: url("https://pbblogassets.s3.amazonaws.com/uploads/2015/08/Audio-Waveforms-Featued-Image.jpg");
+    background-size: cover;
 }
 
 center {
-    background-color: aquamarine;
+    background-color: navy;
+    opacity: 0.8;
     margin-top: -20px;
 }
